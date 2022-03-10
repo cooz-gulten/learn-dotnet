@@ -1,5 +1,5 @@
 ---
-title: What Is Blazor 
+title: Apa kata ahli tentang Blazor 
 description: Briefing about Blazor.
 author: afandy
 linkedin: https://www.linkedin.com/in/afandylamusu/
@@ -8,7 +8,7 @@ gul.date: 03/10/2022
 gul.custom: vs-dotnet-blazor
 gul.topic: tutorial
 ---
-# Get started with .NET
+# Apa kata ahli tentang Blazor
 
 This article teaches you how to create and run a "Hello World!" .NET app.
 
